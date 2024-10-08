@@ -1,3 +1,8 @@
-# Hello Toast Constraint Layout App
-https://github.com/user-attachments/assets/a56a18ed-f15c-4e52-8605-a2d47ed73777
+
+# TP1 Exercice1 Partie1
+## Hello Toast Constraint Layout App
+Cette activité vise à créer et implémenter deux boutons:un bouton pour incrémenter le compteur affiché comme textView au centre,et l'autre bouton pour afficher le toast 
+
+https://github.com/user-attachments/assets/f8c7e060-80f3-4f92-b901-e67257f4038a
+
 
